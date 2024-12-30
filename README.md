@@ -1,4 +1,4 @@
-# Credit Scoring
+# Default Prediction - Credit Scoring
 ## Data
 - Data source: Kaggle
 - Data description: The data set HMEQ reports characteristics and delinquency information for 5,960 home equity loans. A home equity loan is a loan where the obligor uses the equity of his or her home as the underlying collateral
