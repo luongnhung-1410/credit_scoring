@@ -18,3 +18,7 @@
 | NINQ                       | Number of recent credit inquiries                                                            |
 | CLNO                       | Number of credit lines                                                                       |
 | DEBTINC                    | Debt-to-income ratio                                                                         |
+
+## Purpose
+1. Compare the prediction performance of classification models based on evaluation criteria
+2. Calculate the credit scores for each feature based on the Logit model 
